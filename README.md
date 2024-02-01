@@ -5,7 +5,7 @@
 
 
 
-- 🔭 I’m gruaduate of university of benin, Nigeria
-- 🌱 I’m currently working on different Devops/Cloud project
+-  I’m gruaduate of university of benin, Nigeria
+-  I’m currently working on different Devops/Cloud project
 
 -->
